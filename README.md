@@ -1,2 +1,5 @@
 # TFM-CristinaCastera
-TFM-Extracción y modelado de variables biomecánicas en microinyección espermática (ICSI) mediante visión artificial y aprendizaje profundo
+Extracción y modelado de variables biomecánicas en microinyección espermática (ICSI) mediante visión artificial y aprendizaje profundo.
+
+
+Este trabajo presenta el desarrollo de un sistema basado en Inteligencia Artificial para el análisis automático de vídeos del procedimiento de inyección intracitoplasmática de espermatozoides (ICSI). El objetivo es identificar y cuantificar variables biomecánicas relevantes durante la microinyección y evaluar su capacidad para predecir el resultado de la fecundación. La metodología combina técnicas de visión por computador y aprendizaje automático, incluyendo segmentación temporal del procedimiento, segmentación espacial mediante redes neuronales convolucionales y extracción de características geométricas y cinemáticas, como el ángulo y la velocidad de inyección. Estas variables se emplean en modelos predictivos supervisados. Los resultados muestran que la información derivada del análisis de vídeo permite capturar patrones relevantes asociados al éxito del procedimiento. Como conclusión, se demuestra el potencial de estas técnicas para objetivar procesos clínicos y apoyar la toma de decisiones en reproducción asistida.
